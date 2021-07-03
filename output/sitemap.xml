@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://edgarl.com/</loc>
-  <lastmod>2021-07-03T01:41:00Z</lastmod>
+  <lastmod>2021-07-03T02:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/2021/</loc>
@@ -70,16 +70,8 @@
   <lastmod>2021-07-02T23:01:00Z</lastmod>
  </url>
  <url>
-  <loc>https://edgarl.com/galleries/</loc>
-  <lastmod>2021-07-02T23:01:00Z</lastmod>
- </url>
- <url>
-  <loc>https://edgarl.com/listings/</loc>
-  <lastmod>2021-07-02T23:01:00Z</lastmod>
- </url>
- <url>
   <loc>https://edgarl.com/posts/first-post/</loc>
-  <lastmod>2021-07-02T23:01:00Z</lastmod>
+  <lastmod>2021-07-03T02:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/python/</loc>
