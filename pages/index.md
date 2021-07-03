@@ -2,11 +2,17 @@
 .. title: Welcome
 .. slug: index
 .. date: 2021-07-01 20:04:36 UTC-05:00
-.. tags: Edgar, Programmer, Tester, Accessibility, Screen Reader, Computer, Technology, Python, HTML
+.. tags: Edgar, Programmer, Tester, Accessibility, Screen Reader, Computer, Technology, Python, HTML, NVDA, Software Engineer
 .. category: Pages
 .. link: 
-.. description: Edgar's index page.
+.. description: Edgar's welcome page.
 .. type: text
 -->
 
-My name is Edgar Lozano. I am a software developer, accessibility specialist, language enthusiast, and musician.
+My name is Edgar Lozano.
+
+Professionally, I am a software developer and accessibility specialist.
+
+I consider myself to be a Full Stack developer, but have a preference toward solving challenges on the backend. I can also do OK frontend work.
+
+I also have over 6 years of accessibility experience as both an Accessibility software engineer, tester, and consultant. And I have had the privilege of working at 2 well-known companies in the public, and 1 leading company in the accessibility industry.

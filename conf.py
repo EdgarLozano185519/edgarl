@@ -140,10 +140,29 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/blog/", "Blog"),
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        (
+            (
+                ("/blog/", "Posts"),
+                ("/archive.html", "Archive"),
+                ("/categories/", "Tags"),
+                ("/rss.xml", "RSS feed")
+            ),
+            "Blog"
+        ),
+        (
+            (
+                ("/python", "Python"),
+            ),
+            "Programming Projects"
+        ),
+        (
+            (
+                ("https://twitter.com/edgarlozano/", "Twitter"),
+                ("https://www.linkedin.com/in/edgar-lozano-cpacc-22212794/", "LinkedIn"),
+                ("https://github.com/EdgarLozano185519", "Github")
+            ),
+            "Connect with Me"
+        ),
     ),
 }
 
@@ -1163,10 +1182,10 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # """
 
 # Show link to source for the posts?
-# SHOW_SOURCELINK = True
+SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
-# COPY_SOURCES = True
+COPY_SOURCES = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
