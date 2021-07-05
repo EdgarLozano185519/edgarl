@@ -164,6 +164,7 @@ NAVIGATION_LINKS = {
             ),
             "Connect with Me"
         ),
+        ("/certifications/", "Certifications"),
     ),
 }
 
