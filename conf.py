@@ -165,6 +165,7 @@ NAVIGATION_LINKS = {
             "Connect with Me"
         ),
         ("/certifications/", "Certifications"),
+        ("/jobs/", "Job History"),
     ),
 }
 

@@ -7,82 +7,86 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://edgarl.com/</loc>
-  <lastmod>2021-07-05T00:51:00Z</lastmod>
+  <lastmod>2021-07-09T00:50:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/2021/</loc>
-  <lastmod>2021-07-03T23:18:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/2021/07/</loc>
-  <lastmod>2021-07-03T23:18:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/archive.html</loc>
-  <lastmod>2021-07-07T22:55:00Z</lastmod>
+  <lastmod>2021-07-09T00:50:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/blog/</loc>
-  <lastmod>2021-07-03T23:18:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/categories/</loc>
-  <lastmod>2021-07-03T23:18:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/categories/accessibility/</loc>
-  <lastmod>2021-07-03T23:18:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/categories/cat_blog/</loc>
-  <lastmod>2021-07-03T23:18:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/categories/computer/</loc>
-  <lastmod>2021-07-03T23:18:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/categories/edgar/</loc>
-  <lastmod>2021-07-03T23:18:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/categories/html/</loc>
-  <lastmod>2021-07-03T23:18:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/categories/programmer/</loc>
-  <lastmod>2021-07-03T23:18:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/categories/python/</loc>
-  <lastmod>2021-07-03T23:18:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/categories/screen-reader/</loc>
-  <lastmod>2021-07-03T23:18:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/categories/technology/</loc>
-  <lastmod>2021-07-03T23:18:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/categories/tester/</loc>
-  <lastmod>2021-07-03T23:18:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/certifications/</loc>
-  <lastmod>2021-07-05T00:51:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/javascript/</loc>
-  <lastmod>2021-07-03T23:18:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://edgarl.com/jobs/</loc>
+  <lastmod>2021-07-09T00:50:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/posts/first-post/</loc>
-  <lastmod>2021-07-03T23:18:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://edgarl.com/python/</loc>
-  <lastmod>2021-07-03T23:18:00Z</lastmod>
+  <lastmod>2021-07-08T23:05:00Z</lastmod>
  </url>
 </urlset>
