@@ -151,6 +151,7 @@ NAVIGATION_LINKS = {
         ),
         (
             (
+                ("/c-c++", "C/C++"),
                 ("/javascript", "JavaScript"),
                 ("/python", "Python"),
             ),
@@ -160,7 +161,8 @@ NAVIGATION_LINKS = {
             (
                 ("https://twitter.com/edgarlozano/", "Twitter"),
                 ("https://www.linkedin.com/in/edgar-lozano-cpacc-22212794/", "LinkedIn"),
-                ("https://github.com/EdgarLozano185519", "Github")
+                ("https://github.com/EdgarLozano185519", "Github"),
+                ("https://docs.google.com/forms/d/e/1FAIpQLScwbXzHwyA1ArQ79_ZvB3MNqzykbvajRP5_0VxSHOHJw5o6KQ/viewform?usp=sf_link", "Contact Form"),
             ),
             "Connect with Me"
         ),
