@@ -3,7 +3,7 @@ name: Build Nikola Site
 on:
   push:
     branches:
-      - src  # Change this to your main branch
+      - master  # Change this to your main branch
 
 jobs:
   deploy-nikola-site:
