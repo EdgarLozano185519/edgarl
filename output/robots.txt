@@ -1,4 +1,0 @@
-Sitemap: https://edgarl.com/sitemapindex.xml
-
-User-Agent: *
-Host: edgarl.com
