@@ -11,11 +11,9 @@
 
 My name is Edgar Lozano.
 
-Professionally, I am a software developer and accessibility specialist.
+Professionally, I am an Accessibility Engineer/Tester/Consultant, Software Developer, Devops Engineer, Linux Administrator, and just all around enjoy many facets of technology. As a bit of an interesting fact, this website is hosted on S3, it uses Github, there is CI/CD to deploy to S3, and you are accessing the site via a CloudFront distribution.
 
-I consider myself to be a Full Stack developer, but have a preference toward solving challenges on the backend. I can also do OK frontend work.
-
-I also have over 6 years of accessibility experience as both an Accessibility software engineer, tester, and consultant. And I have had the privilege of working at 2 well-known companies in the public, and 1 leading company in the accessibility industry.
+I have over 9 years of accessibility experience as both an Accessibility software engineer, tester, and consultant. And I have had the privilege of working at a well-known company in the education field, 1 well-known company in the finance world, and 1 leading company in the accessibility industry.
 
 In my free time, I enjoy reading, learning languages (I speak Spanish fluently and know Japanese and French really well with others being at minimal conversation level), and indulge in my interest for music and audio engineering.
 
