@@ -17,6 +17,6 @@ I have over 9 years of accessibility experience as both an Accessibility softwar
 
 In my free time, I enjoy reading, learning languages (I speak Spanish fluently and know Japanese and French really well with others being at minimal conversation level), and indulge in my interest for music and audio engineering.
 
-[Download my professional resume.](https://www.dropbox.com/s/s7pujmb5ig0764j/EdgarLozano_Resume.pdf?dl=1)
+[Follow me on LinkedIn](https://www.linkedin.com/in/edgar-lozano-cpacc-22212794/)
 
 [Contact me here](https://docs.google.com/forms/d/e/1FAIpQLScwbXzHwyA1ArQ79_ZvB3MNqzykbvajRP5_0VxSHOHJw5o6KQ/viewform?usp=sf_link) if you have any questions or are looking for someone to help in your projects either professionally or informally.
